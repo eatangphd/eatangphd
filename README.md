@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eatangphd
-- 👀 I’m interested in ... Applying AI soultions to Planetary Science Research
-- 🌱 I’m currently learning ... Machine Learning Basics
-- 💞️ I’m looking to collaborate on ... Intergrating Large Language Models with Computer Vision
-- 📫 How to reach me ... atangeliz21@gmail.com
+- 👀 I’m interested in ... working in Tech industries as a Data Scientist
+- 🌱 I’m currently learning ... IBM Data Fundamentals,  SQL for Data Science
+- 💞️ I’m looking to collaborate on ... Quant
+- 📫 How to reach me ... liz21atang@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
