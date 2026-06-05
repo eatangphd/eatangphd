@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eatangphd
 - 👀 I’m interested in ... working as a Data Scientist, Research Scientist, 
-- 🌱 I’m currently learning ... Fraud Detection Analysis,  SQL for Data Science
+- 🌱 I’m currently learning ... Anomaly Detection Analysis,  SQL for Data Science
 - 💞️ I’m looking to collaborate on ... Quant Research
 - 📫 How to reach me ... liz21atang@gmail.com
 - 😄 Pronouns: ... she/her
